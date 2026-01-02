@@ -1,4 +1,5 @@
-package com.eazybytes.accounts.dto;
+package com.eazybytes.cards.dto;
+
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;
@@ -34,4 +35,5 @@ public class ErrorResponseDto {
             description = "Time representing when the error happened"
     )
     private LocalDateTime errorTime;
+
 }
