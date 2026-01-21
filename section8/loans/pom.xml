@@ -151,7 +151,7 @@
 				<version>3.5.1</version>
 				<configuration>
 					<to>
-						<image>paung29/${project.artifactId}:s6</image>
+						<image>paung29/${project.artifactId}:s8</image>
 					</to>
 				</configuration>
 			</plugin>
